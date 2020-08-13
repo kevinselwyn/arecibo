@@ -1,14 +1,14 @@
-#arecibo
+# arecibo
 
 Visual representation of the Arecibo Message
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```
 arecibo [options] [<rate>]
@@ -22,12 +22,12 @@ The rate defaults to `2000` and is the sleep time between each line of the messa
 
 ![Example](example.gif)
 
-##Description
+## Description
 
 The Arecibo Message was a 1679 bit long radio signal sent to globular star cluster M13 from the Arecibo radio telescope in Puerto Rico on November 16, 1974.
 
 For more information about the message conveyed, read the Wikipedia page [here](http://en.wikipedia.org/wiki/Arecibo_message).
 
-##Acknowledgements
+## Acknowledgements
 
 The coloring of the important parts of the message was shamelessly taken from the Wikipedia page for the Arecibo Message.
